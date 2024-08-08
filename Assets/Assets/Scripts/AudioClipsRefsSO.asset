@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfc0513ef33744531aa9a12f8142be39, type: 3}
+  m_Name: AudioClipsRefsSO
+  m_EditorClassIdentifier: 
+  doorOpen: {fileID: 8300000, guid: 5d03b7f8953a14fa0871d3c22743edc2, type: 3}
+  doorClose: {fileID: 8300000, guid: b727ddf508adc4e63a311ffe6f3db6ea, type: 3}
+  clueCollected: {fileID: 8300000, guid: d62c0bb23c09d43a09e6c03a214875cf, type: 3}
